@@ -43,13 +43,13 @@ import com.google.gson.internal.LinkedTreeMap;
 //    "classpath:spring/context-*.xml"}
 //    )
 //@TestPropertySource(properties = {
-////		"classpath:message/kb-*.xml",
-//	    "jdbc.username=brgapp",
-//	    "jdbc.password.dev=Rnrals2648@@",
-//	    "bridge.dev.domain=dkbbridge.kbstar.com",
-//	    "bridge.real.domain=kbbridge.kbstar.com",
-//	    "bizdata.api.ip.dev=http://127.0.0.1:8180/bridge-api",
-//	    "bizdata.api.ip.real=http://127.0.0.1:8180/bridge-api",
+////	    "classpath:message/kb-*.xml",
+//	    "jdbc.username=",
+//	    "jdbc.password.dev=",
+//	    "bridge.dev.domain=",
+//	    "bridge.real.domain=",
+//	    "bizdata.api.ip.dev=",
+//	    "bizdata.api.ip.real=",
 //	})
 //@WebAppConfiguration
 public class LiivOnDataParser  {
